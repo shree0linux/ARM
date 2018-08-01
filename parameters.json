@@ -1,0 +1,105 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "serverfarms_APP_TEMPLATE_name": {
+            "value": null
+        },
+        "sites_webapptest_template_name": {
+            "value": null
+        },
+        "servers_serversql_template_name": {
+            "value": null
+        },
+        "applicationGateways_gatway_template_name": {
+            "value": null
+        },
+        "publicIPAddresses_gatway_template_ip_name": {
+            "value": null
+        },
+        "advisors_DropIndex_name": {
+            "value": null
+        },
+        "keys_ServiceManaged_name": {
+            "value": null
+        },
+        "advisors_CreateIndex_name": {
+            "value": null
+        },
+        "advisors_DefragmentIndex_name": {
+            "value": null
+        },
+        "auditingPolicies_Default_name": {
+            "value": null
+        },
+        "databases_sql_apptemplate_name": {
+            "value": null
+        },
+        "advisors_ForceLastGoodPlan_name": {
+            "value": null
+        },
+        "advisors_DbParameterization_name": {
+            "value": null
+        },
+        "encryptionProtector_current_name": {
+            "value": null
+        },
+        "auditingPolicies_Default_name_1": {
+            "value": null
+        },
+        "databases_master_name": {
+            "value": null
+        },
+        "geoBackupPolicies_Default_name": {
+            "value": null
+        },
+        "advisors_DropIndex_name_1": {
+            "value": null
+        },
+        "advisors_CreateIndex_name_1": {
+            "value": null
+        },
+        "transparentDataEncryption_current_name": {
+            "value": null
+        },
+        "advisors_DefragmentIndex_name_1": {
+            "value": null
+        },
+        "auditingPolicies_Default_name_2": {
+            "value": null
+        },
+        "geoBackupPolicies_Default_name_1": {
+            "value": null
+        },
+        "advisors_ForceLastGoodPlan_name_1": {
+            "value": null
+        },
+        "advisors_DbParameterization_name_1": {
+            "value": null
+        },
+        "hostNameBindings_webapptest_template.azurewebsites.net_name": {
+            "value": null
+        },
+        "transparentDataEncryption_current_name_1": {
+            "value": null
+        },
+        "applicationGateways_gatway_template_id": {
+            "value": null
+        },
+        "applicationGateways_gatway_template_id_1": {
+            "value": null
+        },
+        "applicationGateways_gatway_template_id_2": {
+            "value": null
+        },
+        "applicationGateways_gatway_template_id_3": {
+            "value": null
+        },
+        "applicationGateways_gatway_template_id_4": {
+            "value": null
+        },
+        "applicationGateways_gatway_template_id_5": {
+            "value": null
+        }
+    }
+}
